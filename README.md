@@ -1,5 +1,4 @@
-# ahri_icra_supplement
-Supplement material for AHRI ICRA2023 paper.
+# ahri_supplement
 
 Internal Pre (TAP, NARS) and Post Experiment Questionnaire (TAM): https://docs.google.com/forms/d/1hbUWE3CF55vmrj3UhlCul64HjOmsAbZdPYX4qY_YdUQ/edit?usp=sharing
 
